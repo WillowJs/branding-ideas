@@ -1,4 +1,4 @@
-# branding-ideas
+# marketing / branding ideas
 
 ## logo
 - iconic
@@ -28,3 +28,7 @@
 ![willow 2](http://orig03.deviantart.net/6f09/f/2013/021/5/b/willow_tree_by_funkytravelling-d5s7g9r.jpg)
 ![willow 3](http://www.lostatseaphotography.com/mephotos/weeping-willow-tree-2-1280.jpg)
 ![willow 4](http://www.wallbeep.com/wp-content/uploads/2015/05/sunset-dried-scene-willow-tree-wallpaper-801x501.jpg)
+
+## the pitch
+- https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b
+- http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en
