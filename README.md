@@ -1,5 +1,23 @@
 # branding-ideas
 
+## logo
+- iconic
+- thick
+- bold
+- easy to see from a distancehttps://38.media.tumblr.com/avatar_b28350a20d46_128.png
+- square (equal height and width)
+- not text based (like coca cola, google, fedex)
+
+![logo 1](https://38.media.tumblr.com/avatar_b28350a20d46_128.png)
+![logo 2](http://freevectorlogo.net/wp-content/uploads/2011/05/dropbox-vector-logo-400x400.png)
+![logo 3](http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0023/1973/brand.gif?itok=9SpTwJfL)
+![logo 4](http://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.gif)
+![logo 5](http://www.practicalecommerce.com/wp-content/uploads/images/0004/5718/nbc_lightbox.png)
+
+
+
+## brand
+
 - peaceful
 - organic
 - robust
